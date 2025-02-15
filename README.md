@@ -20,10 +20,10 @@
 | User Interface | رابط کاربری |
 | User Exprience | تجربه کاربری |
 | Content | محتوا |
-| Strategy | ؟ |
-| Proof of Concept | ؟ |
-| Minimum Viable Product | ؟ |
-| Startup | ؟ |
+| Strategy | راهبرد |
+| Proof of Concept | برهان مفهوم |
+| Minimum Viable Product | کمینه محصول کاربردی |
+| Startup | راهبرد |
 | Accelerator | شتاب‌دهنده |
 | Incubator | ؟ |
 | Design | طراحی |
@@ -34,17 +34,17 @@
 | Back-end | ؟ |
 | Front-end | ؟ |
 | Pull Request | ؟ |
-| Merge | ؟ |
+| Merge | یکی سازی |
 | Server | ؟ |
 | Platform | ؟ |
 | Infra | زیرساخت |
 | Data Science | علم داده |
-| Data Scientist | ؟ |
+| Data Scientist | دانشمند داده |
 | Daily | ؟ |
 | Planning | ؟ |
 | To plan | ؟ |
-| Brainstorming | ؟ |
-| Retro | ؟ |
+| Brainstorming | بارش افکار |
+| Retro | بازنگری |
 | Human Resources | منابع انسانی |
 
 
