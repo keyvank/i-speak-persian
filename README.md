@@ -17,8 +17,8 @@
 | Product | محصول |
 | Product Manager | مدیر محصول |
 | User | کاربر |
-| User Interface | رابط کاربری |
-| User Exprience | تجربه کاربری |
+| User Interface (UI) | رابط کاربری |
+| User Exprience (UX) | تجربه کاربری |
 | Content | محتوا |
 | Strategy | راهبرد |
 | Proof of Concept | ؟ |
@@ -45,7 +45,7 @@
 | To plan | برنامه ریزی |
 | Brainstorming | بارش فکری |
 | Retro | ؟ |
-| Human Resources | منابع انسانی |
+| Human Resources (HR) | منابع انسانی |
 | Manager | مدیر |
 | Leader | رهبر یا راهبر |
 | Leadership | رهبری کردن |
@@ -57,8 +57,15 @@
 | Collaboration | مشارکت |
 | Contribution | ? |
 | Maintainer | ? |
-| Business plan | بوم کسب و کار |
+| Business Plan | بوم کسب و کار |
+| Content | محتوا |
+| Content Creator | تولیدکننده محتوا |
+| Advanced | پیشرفته |
+| Basic | پایه و اساس |
+| Architect | معماری |
+| Software | نرم‌افزار |
+| Operating System | سیستم عامل |
 
 
 
-فارسی رو پاس بداریم
+**فارسی رو پاس بداریم** ❤️
