@@ -33,7 +33,7 @@
 | Public Relations | روابط عمومی |
 | Back-end | سمت سرور |
 | Front-end | سمت کاربر |
-| Pull Request | ؟ |
+| Pull Request | درخواست ادغام |
 | Merge | یکی سازی |
 | Server | ؟ |
 | Platform | ؟ |
@@ -54,9 +54,9 @@
 | Task | وظیفه یا کار |
 | Separate | جداسازی |
 | Team Work | کار گروهی |
-| Collaboration | مشارکت |
-| Contribution | ? |
-| Maintainer | ? |
+| Collaboration | همکاری |
+| Contribution | مشارکت |
+| Maintainer | پشتیبان |
 | Business Plan | بوم کسب و کار |
 | Content | محتوا |
 | Content Creator | تولیدکننده محتوا |
