@@ -21,11 +21,11 @@
 | User Exprience (UX) | تجربه کاربری |
 | Content | محتوا |
 | Strategy | راهبرد |
-| Proof of Concept | ؟ |
-| Minimum Viable Product | ؟ |
+| Proof of Concept | برهان مفهوم |
+| Minimum Viable Product | کمینه محصول کاربردی |
 | Startup | شرکت نوپا |
 | Accelerator | شتاب‌دهنده |
-| Incubator | ؟ |
+| Incubator | مرکز رشد |
 | Design | طراحی |
 | Designer | طراح |
 | Roadmap | نقشه‌راه |
@@ -34,7 +34,7 @@
 | Back-end | سمت سرور |
 | Front-end | سمت کاربر |
 | Pull Request | ؟ |
-| Merge | ؟ |
+| Merge | یکی سازی |
 | Server | ؟ |
 | Platform | ؟ |
 | Infra | زیرساخت |
@@ -44,7 +44,7 @@
 | Planning | برنامه ریزی |
 | To plan | برنامه ریزی |
 | Brainstorming | بارش فکری |
-| Retro | ؟ |
+| Retro | بازنگری |
 | Human Resources (HR) | منابع انسانی |
 | Manager | مدیر |
 | Leader | رهبر یا راهبر |
@@ -65,7 +65,6 @@
 | Architect | معماری |
 | Software | نرم‌افزار |
 | Operating System | سیستم عامل |
-
 
 
 **فارسی رو پاس بداریم** ❤️
