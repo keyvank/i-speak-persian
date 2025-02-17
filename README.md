@@ -34,7 +34,7 @@
 | Design                 | طراحی                       |                             |
 | Designer               | طراح                        |                             |
 | Roadmap                | نقشه‌راه                    |                             |
-| Milestone              | ؟                           |                             |
+| Milestone              | نقطهٔ عطف / موعد             |                             |
 | Public Relations       | روابط عمومی                 |                             |
 | Back-end               | سمت سرور                    |                             |
 | Front-end              | سمت کاربر                   |                             |
@@ -47,8 +47,8 @@
 | Fork                   | انشعاب                      |                             |
 | Tag                    | برچسب                       |                             |
 | Checkout               | تغییر شاخه                  |                             |
-| Server                 | ؟                           |                             |
-| Platform               | ؟                           |                             |
+| Server                 | کارساز                      |                             |
+| Platform               | بن‌سازه / سکو                |                             |
 | Infra                  | زیرساخت                     |                             |
 | Data Science           | علم داده                    |                             |
 | Data Scientist         | دانشمند داده                |                             |
